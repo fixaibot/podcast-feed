@@ -1,17 +1,25 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>人物紹介ポッドキャスト</title>
-    <link>https://example.com</link>
+    <link>https://fixaibot.github.io/podcast-feed/</link>
     <description>Wikipediaの人物を1000字に要約して音声化するPodcast</description>
+    <language>ja</language>
+
+    <itunes:author>fixaibot</itunes:author>
+    <itunes:summary>Wikipediaの人物を1000字に要約して音声化するPodcast</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://fixaibot.github.io/podcast-feed/artwork.jpg" />
+    <itunes:category text="History" />
+
     
-  <item>
-    <title>テストさん</title>
-    <enclosure url="https://drive.google.com/file/d/1Hws67FHO43Q7-OmjhMIZ37duuL8RRLPk/view?usp=drivesdk" length="0" type="audio/mpeg"/>
-    <guid>https://drive.google.com/file/d/1Hws67FHO43Q7-OmjhMIZ37duuL8RRLPk/view?usp=drivesdk</guid>
-    <pubDate>2025-12-01T14:18:03.470+09:00</pubDate>
-    <description><![CDATA[
+<item>
+  <title>テストさん</title>
+  <guid>https://drive.google.com/file/d/1Hws67FHO43Q7-OmjhMIZ37duuL8RRLPk/view?usp=drivesdk</guid>
+  <pubDate>Mon, 01 Dec 2025 05:18:03 GMT</pubDate>
+  <description><![CDATA[
 坂本龍馬は、1836年1月3日に土佐国（現在の高知県）で、土佐藩の郷士である坂本家に生まれました。幼少期は泣き虫で体も弱く、10歳の時に母親を亡くし、姉の乙女に育てられました。彼は剣術に熱心に励み、北辰一刀流をはじめ複数流派の剣術を学びました。
 
 1853年、17歳のときに自費で江戸に遊学し、北辰一刀流の千葉道場に入門しました。黒船来航の際には藩の警備に参加し、当時の軍学者・佐久間象山の私塾に通い砲術や蘭学も学んでいます。1855年に土佐へ戻った後も、再び江戸に修行に赴き、武市半平太らとともに土佐勤王党に所属し、尊王攘夷思想の普及に努めました。
@@ -31,15 +39,19 @@
 龍馬の生涯は、幕末の激動期にあって日本の近代化と明治維新を促進した重要な役割を果たしました。彼の建立した海援隊は海運商社としての役割も担い、経済的基盤の確立を試みました。薩長土三藩の連携を実現し、徳川幕府の体制転換を訴え続けたその活動は、多くの資料や証言によって詳細に記録されています。
 
 今日、彼の墓は京都霊山護国神社にあり、また高知県護国神社や靖国神社にも祀られています。坂本龍馬は、日本の歴史教育においても重要な位置を占め、その名は多くの文学や映像作品で取り上げられてきました。
-    ]]></description>
-  </item>
-  
-  <item>
-    <title>zuranon</title>
-    <enclosure url="https://drive.google.com/file/d/1gxq6DLL9BXec-RB5FcroCnYx5Y5u8mIP/view?usp=drivesdk" length="0" type="audio/mpeg"/>
-    <guid>https://drive.google.com/file/d/1gxq6DLL9BXec-RB5FcroCnYx5Y5u8mIP/view?usp=drivesdk</guid>
-    <pubDate>2025-12-01T14:18:03.475+09:00</pubDate>
-    <description><![CDATA[
+  ]]></description>
+
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+
+  <enclosure url="https://drive.google.com/file/d/1Hws67FHO43Q7-OmjhMIZ37duuL8RRLPk/view?usp=drivesdk" length="0" type="audio/mpeg"/>
+</item>
+
+<item>
+  <title>zuranon</title>
+  <guid>https://drive.google.com/file/d/1gxq6DLL9BXec-RB5FcroCnYx5Y5u8mIP/view?usp=drivesdk</guid>
+  <pubDate>Mon, 01 Dec 2025 05:18:03 GMT</pubDate>
+  <description><![CDATA[
 木戸孝允（きど たかよし、1833年8月11日生まれ、1877年5月26日没）は、幕末から明治時代にかけて活躍した日本の政治家です。長州藩の藩医の家に生まれましたが、7歳の時に藩士の桂家に養子入りし、桂小五郎の名前で知られるようになりました。青年期から江戸に留学し、剣術や洋式砲術、造船術、蘭学など西洋の知識を積極的に吸収しました。
 
 1858年以降、木戸は尊王攘夷運動に身を投じ、長州藩内で指導的な役割を果たしました。1864年の池田屋事件や禁門の変を経て、一時は但馬出石に8か月間も潜伏生活を送りました。1865年に藩主から「木戸」の苗字を賜り、1866年には薩摩藩とともに薩長同盟を締結し、これが後の明治維新の基盤となりました。
@@ -55,8 +67,13 @@
 多くの同時代人や後世の歴史家からは、政治的識見の高さや人材育成の熱心さ、情緒豊かで親しみやすい人柄が評価されています。一方で、大久保利通との意見の対立や、進歩的改革を求める姿勢からくる孤独感も指摘されています。
 
 総じて、木戸孝允は幕末の動乱期から明治の国家建設にかけて、理論と実践の両面で大きな役割を果たした重要な人物であり、維新の三傑の一人として知られています。彼の政治思想と行動は、日本の近代化過程に大きな影響を与えました。
-    ]]></description>
-  </item>
-  
+  ]]></description>
+
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+
+  <enclosure url="https://drive.google.com/file/d/1gxq6DLL9BXec-RB5FcroCnYx5Y5u8mIP/view?usp=drivesdk" length="0" type="audio/mpeg"/>
+</item>
+
   </channel>
 </rss>
