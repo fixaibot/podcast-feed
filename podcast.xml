@@ -115,20 +115,5 @@
 
     <enclosure url="https://fixaibot.github.io/podcast-feed/audio/kido.mp3" length="0" type="audio/mpeg"/>
   </item>
-  <item>
-    <title><![CDATA[村上春樹]]></title>
-    <guid isPermaLink="false"><![CDATA[https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Conversatorio_Haruki_Murakami_%2812_de_12%29_%2845747009452%29_%28cropped%29.jpg/456px-Conversatorio_Haruki_Murakami_%2812_de_12%29_%2845747009452%29_%28cropped%29.jpg]]></guid>
-    <pubDate>Sun, 15 Feb 2026 12:19:41 GMT</pubDate>
-
-    <description><![CDATA[]]></description>
-    <itunes:summary><![CDATA[]]></itunes:summary>
-
-    <itunes:author><![CDATA[fixaibot]]></itunes:author>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:duration>05:00</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-
-    <enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Conversatorio_Haruki_Murakami_%2812_de_12%29_%2845747009452%29_%28cropped%29.jpg/456px-Conversatorio_Haruki_Murakami_%2812_de_12%29_%2845747009452%29_%28cropped%29.jpg" length="0" type="audio/mpeg"/>
-  </item>
   </channel>
 </rss>
