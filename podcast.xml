@@ -10,7 +10,7 @@
 
     <description><![CDATA[Wikipediaの人物を約1000字で紹介し、音声で届けるポッドキャスト。]]></description>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Feb 2026 12:07:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 12:22:55 GMT</lastBuildDate>
 
     <itunes:author><![CDATA[fixaibot]]></itunes:author>
     <itunes:summary><![CDATA[Wikipediaの人物を約1000字で紹介し、音声で届けるポッドキャスト。]]></itunes:summary>
@@ -23,7 +23,7 @@
     
   <item>
     <title><![CDATA[テストさん]]></title>
-    <guid isPermaLink="false"><![CDATA[https://drive.google.com/file/d/1Hws67FHO43Q7-OmjhMIZ37duuL8RRLPk/view?usp=drivesdk]]></guid>
+    <guid isPermaLink="false"><![CDATA[https://fixaibot.github.io/podcast-feed/audio/sakamoto_ryoma.mp3]]></guid>
     <pubDate>Mon, 01 Dec 2025 05:18:03 GMT</pubDate>
 
     <description><![CDATA[坂本龍馬は、1836年1月3日に土佐国（現在の高知県）で、土佐藩の郷士である坂本家に生まれました。幼少期は泣き虫で体も弱く、10歳の時に母親を亡くし、姉の乙女に育てられました。彼は剣術に熱心に励み、北辰一刀流をはじめ複数流派の剣術を学びました。
@@ -70,11 +70,11 @@
     <itunes:duration>05:00</itunes:duration>
     <itunes:episodeType>full</itunes:episodeType>
 
-    <enclosure url="https://drive.google.com/file/d/1Hws67FHO43Q7-OmjhMIZ37duuL8RRLPk/view?usp=drivesdk" length="0" type="audio/mpeg"/>
+    <enclosure url="https://fixaibot.github.io/podcast-feed/audio/sakamoto_ryoma.mp3" length="0" type="audio/mpeg"/>
   </item>
   <item>
     <title><![CDATA[zuranon]]></title>
-    <guid isPermaLink="false"><![CDATA[https://drive.google.com/file/d/1gxq6DLL9BXec-RB5FcroCnYx5Y5u8mIP/view?usp=drivesdk]]></guid>
+    <guid isPermaLink="false"><![CDATA[https://fixaibot.github.io/podcast-feed/audio/kido.mp3]]></guid>
     <pubDate>Mon, 01 Dec 2025 05:18:03 GMT</pubDate>
 
     <description><![CDATA[木戸孝允（きど たかよし、1833年8月11日生まれ、1877年5月26日没）は、幕末から明治時代にかけて活躍した日本の政治家です。長州藩の藩医の家に生まれましたが、7歳の時に藩士の桂家に養子入りし、桂小五郎の名前で知られるようになりました。青年期から江戸に留学し、剣術や洋式砲術、造船術、蘭学など西洋の知識を積極的に吸収しました。
@@ -113,7 +113,7 @@
     <itunes:duration>05:00</itunes:duration>
     <itunes:episodeType>full</itunes:episodeType>
 
-    <enclosure url="https://drive.google.com/file/d/1gxq6DLL9BXec-RB5FcroCnYx5Y5u8mIP/view?usp=drivesdk" length="0" type="audio/mpeg"/>
+    <enclosure url="https://fixaibot.github.io/podcast-feed/audio/kido.mp3" length="0" type="audio/mpeg"/>
   </item>
   <item>
     <title><![CDATA[村上春樹]]></title>
